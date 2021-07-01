@@ -32,7 +32,7 @@ public class ConversaoDeTemperaturas {
                 System.out.println("Opção invalida, digite uma das opções acima");
 
         }
-
+        leitor.close();
 
 
     }
